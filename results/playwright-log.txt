@@ -1,49 +1,49 @@
-{"level":30,"time":"2024-01-03T15:51:46.790Z","pid":6680,"hostname":"NATANAEL","msg":"Listening on 61409"}
-{"level":30,"time":"2024-01-03T15:51:46.922Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:46.923Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:46.927Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:46.927Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:46.944Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2024-01-03T15:51:47.354Z","pid":6680,"hostname":"NATANAEL","msg":"Adding browser to stack: chromium, version: 120.0.6099.28"}
-{"level":30,"time":"2024-01-03T15:51:47.355Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method newBrowser"}
-{"level":30,"time":"2024-01-03T15:51:47.355Z","pid":6680,"hostname":"NATANAEL","msg":"Adding 0 contexts to browser"}
-{"level":30,"time":"2024-01-03T15:51:47.362Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method newPage"}
-{"level":30,"time":"2024-01-03T15:51:47.362Z","pid":6680,"hostname":"NATANAEL","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2024-01-03T15:51:47.378Z","pid":6680,"hostname":"NATANAEL","msg":"Changed active context"}
-{"level":30,"time":"2024-01-03T15:51:47.567Z","pid":6680,"hostname":"NATANAEL","msg":"Video path: undefined"}
-{"level":30,"time":"2024-01-03T15:51:47.567Z","pid":6680,"hostname":"NATANAEL","msg":"Changed active page"}
-{"level":30,"time":"2024-01-03T15:51:48.622Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method newPage"}
-{"level":30,"time":"2024-01-03T15:51:48.626Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2024-01-03T15:51:48.627Z","pid":6680,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with form h1 in page."}
-{"level":30,"time":"2024-01-03T15:51:48.659Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2024-01-03T15:51:48.663Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method getText"}
-{"level":30,"time":"2024-01-03T15:51:48.663Z","pid":6680,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with form h1 in page."}
-{"level":30,"time":"2024-01-03T15:51:48.690Z","pid":6680,"hostname":"NATANAEL","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
-{"level":30,"time":"2024-01-03T15:51:48.690Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method getText"}
-{"level":30,"time":"2024-01-03T15:51:48.696Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.700Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.702Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.705Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.706Z","pid":6680,"hostname":"NATANAEL","msg":"Changed active context"}
-{"level":30,"time":"2024-01-03T15:51:48.707Z","pid":6680,"hostname":"NATANAEL","msg":"Changing current active page: page=fc57d9e1-52f9-44ff-adbc-2b48a019952d"}
-{"level":30,"time":"2024-01-03T15:51:48.707Z","pid":6680,"hostname":"NATANAEL","msg":"Changed active page"}
-{"level":30,"time":"2024-01-03T15:51:48.712Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.713Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.715Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2024-01-03T15:51:48.716Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2024-01-03T15:51:48.718Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2024-01-03T15:51:48.719Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2024-01-03T15:51:48.721Z","pid":6680,"hostname":"NATANAEL","msg":"Changing current active page: page=fc57d9e1-52f9-44ff-adbc-2b48a019952d"}
-{"level":30,"time":"2024-01-03T15:51:48.721Z","pid":6680,"hostname":"NATANAEL","msg":"Changed active page"}
-{"level":30,"time":"2024-01-03T15:51:48.723Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.726Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.727Z","pid":6680,"hostname":"NATANAEL","msg":"Changed active context"}
-{"level":30,"time":"2024-01-03T15:51:48.727Z","pid":6680,"hostname":"NATANAEL","msg":"Changing current active page: page=fc57d9e1-52f9-44ff-adbc-2b48a019952d"}
-{"level":30,"time":"2024-01-03T15:51:48.727Z","pid":6680,"hostname":"NATANAEL","msg":"Changed active page"}
-{"level":30,"time":"2024-01-03T15:51:48.729Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method closeContext"}
-{"level":30,"time":"2024-01-03T15:51:48.741Z","pid":6680,"hostname":"NATANAEL","msg":"Removed page=8e66907e-93e1-4ded-b5a6-43bd44af8162 from context=3b158faa-7ad3-4ff7-a622-2790f897fb4a page stack"}
-{"level":30,"time":"2024-01-03T15:51:48.759Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method closeContext"}
-{"level":30,"time":"2024-01-03T15:51:48.768Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.768Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2024-01-03T15:51:48.818Z","pid":6680,"hostname":"NATANAEL","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2024-01-03T15:51:48.930Z","pid":6680,"hostname":"NATANAEL","msg":"End of node method closeAllBrowsers"}
+{"level":30,"time":"2024-01-03T21:10:25.229Z","pid":748,"hostname":"NATANAEL","msg":"Listening on 52346"}
+{"level":30,"time":"2024-01-03T21:10:25.309Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:25.310Z","pid":748,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:25.314Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:25.314Z","pid":748,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:25.333Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-01-03T21:10:25.729Z","pid":748,"hostname":"NATANAEL","msg":"Adding browser to stack: chromium, version: 120.0.6099.28"}
+{"level":30,"time":"2024-01-03T21:10:25.731Z","pid":748,"hostname":"NATANAEL","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-01-03T21:10:25.730Z","pid":748,"hostname":"NATANAEL","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-01-03T21:10:25.737Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-01-03T21:10:25.737Z","pid":748,"hostname":"NATANAEL","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-01-03T21:10:25.752Z","pid":748,"hostname":"NATANAEL","msg":"Changed active context"}
+{"level":30,"time":"2024-01-03T21:10:25.945Z","pid":748,"hostname":"NATANAEL","msg":"Video path: undefined"}
+{"level":30,"time":"2024-01-03T21:10:25.946Z","pid":748,"hostname":"NATANAEL","msg":"Changed active page"}
+{"level":30,"time":"2024-01-03T21:10:26.785Z","pid":748,"hostname":"NATANAEL","msg":"End of node method newPage"}
+{"level":30,"time":"2024-01-03T21:10:26.789Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-03T21:10:26.790Z","pid":748,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-01-03T21:10:26.824Z","pid":748,"hostname":"NATANAEL","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-03T21:10:26.832Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-03T21:10:26.832Z","pid":748,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-01-03T21:10:26.857Z","pid":748,"hostname":"NATANAEL","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-01-03T21:10:26.857Z","pid":748,"hostname":"NATANAEL","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-03T21:10:26.865Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:26.867Z","pid":748,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:26.869Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:26.871Z","pid":748,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:26.873Z","pid":748,"hostname":"NATANAEL","msg":"Changed active context"}
+{"level":30,"time":"2024-01-03T21:10:26.873Z","pid":748,"hostname":"NATANAEL","msg":"Changing current active page: page=a6b14c11-508b-457f-a29c-45132ed641f7"}
+{"level":30,"time":"2024-01-03T21:10:26.873Z","pid":748,"hostname":"NATANAEL","msg":"Changed active page"}
+{"level":30,"time":"2024-01-03T21:10:26.880Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:26.883Z","pid":748,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:26.885Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-03T21:10:26.885Z","pid":748,"hostname":"NATANAEL","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-03T21:10:26.887Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-03T21:10:26.887Z","pid":748,"hostname":"NATANAEL","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-03T21:10:26.889Z","pid":748,"hostname":"NATANAEL","msg":"Changing current active page: page=a6b14c11-508b-457f-a29c-45132ed641f7"}
+{"level":30,"time":"2024-01-03T21:10:26.889Z","pid":748,"hostname":"NATANAEL","msg":"Changed active page"}
+{"level":30,"time":"2024-01-03T21:10:26.892Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:26.895Z","pid":748,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:26.899Z","pid":748,"hostname":"NATANAEL","msg":"Changed active context"}
+{"level":30,"time":"2024-01-03T21:10:26.899Z","pid":748,"hostname":"NATANAEL","msg":"Changing current active page: page=a6b14c11-508b-457f-a29c-45132ed641f7"}
+{"level":30,"time":"2024-01-03T21:10:26.899Z","pid":748,"hostname":"NATANAEL","msg":"Changed active page"}
+{"level":30,"time":"2024-01-03T21:10:26.901Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-01-03T21:10:26.914Z","pid":748,"hostname":"NATANAEL","msg":"Removed page=f0010975-6a67-462f-94b9-ea90c9c5c217 from context=5d27a8ad-04d7-4b96-88ff-90e120b69c85 page stack"}
+{"level":30,"time":"2024-01-03T21:10:26.934Z","pid":748,"hostname":"NATANAEL","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-01-03T21:10:26.942Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:26.942Z","pid":748,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-03T21:10:27.023Z","pid":748,"hostname":"NATANAEL","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-01-03T21:10:27.140Z","pid":748,"hostname":"NATANAEL","msg":"End of node method closeAllBrowsers"}
