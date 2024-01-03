@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.12.1 on win32)" generated="20240103 12:51:45.829" rpa="false" schemaversion="4">
+<suite id="s1" name="natanaelguedes-UdemyAppiumAndRobotFramework" source="C:\Users\natan\natanaelguedes-UdemyAppiumAndRobotFramework">
+<suite id="s1-s1" name="XQAEXPERIENCE" source="C:\Users\natan\natanaelguedes-UdemyAppiumAndRobotFramework\XQAEXPERIENCE">
+<suite id="s1-s1-s1" name="Tests" source="C:\Users\natan\natanaelguedes-UdemyAppiumAndRobotFramework\XQAEXPERIENCE\tests">
+<suite id="s1-s1-s1-s1" name="homeEncapsulamento" source="C:\Users\natan\natanaelguedes-UdemyAppiumAndRobotFramework\XQAEXPERIENCE\tests\homeEncapsulamento.robot">
+<test id="s1-s1-s1-s1-t1" name="Deve cadastrar um novo dog walker" line="6">
+<kw name="Set Variable" library="BuiltIn">
+<var>${name}</var>
+<arg>Natanael</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${name} = Natanael</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${email}</var>
+<arg>ngsneto@gmail.com</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${email} = ngsneto@gmail.com</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${cpf}</var>
+<arg>07265474741</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${cpf} = 07265474741</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${cep}</var>
+<arg>58070400</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${cep} = 58070400</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${numero}</var>
+<arg>120</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${numero} = 120</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${complemento}</var>
+<arg>Apto105</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${complemento} = Apto105</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${addressStreet}</var>
+<arg>Rua Elias Cavalcanti de Albuquerque</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${addressStreet} = Rua Elias Cavalcanti de Albuquerque</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${addressNumber}</var>
+<arg>120</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${addressNumber} = 120</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${addressDetails}</var>
+<arg>105</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${addressDetails} = 105</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${addressDistrict}</var>
+<arg>Cristo Redentor</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${addressDistrict} = Cristo Redentor</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${addressCityUf}</var>
+<arg>João Pessoa/PB</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${addressCityUf} = João Pessoa/PB</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.936"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${url}</var>
+<arg>i.jpg</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20240103 12:51:46.936" level="INFO">${url} = i.jpg</msg>
+<status status="PASS" starttime="20240103 12:51:46.936" endtime="20240103 12:51:46.952"/>
+</kw>
+<kw name="inicia" library="Cap">
+<kw name="New Browser" library="Browser">
+<arg>browser=chromium</arg>
+<arg>headless=False</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new playwright Browser with specified options.</doc>
+<msg timestamp="20240103 12:51:46.952" level="INFO">{"browser": "chromium", "headless": false, "chromiumSandbox": false, "devtools": false, "handleSIGHUP": true, "handleSIGINT": true, "handleSIGTERM": true, "slowMo": 0.0, "timeout": 30000.0, "tracesDir": "C:\\Users\\natan\\natanaelguedes-UdemyAppiumAndRobotFramework\\results\\browser\\traces\\5875d210-bcb2-47f3-85ed-f32a915be90a"}</msg>
+<msg timestamp="20240103 12:51:47.361" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":false,"chromiumSandbox":false,"devtools":false,"handleSIGHUP":true,"handleSIGINT":true,"handleSIGTERM":true,"slowMo":0,"timeout":30000,"tracesDir":"C:\\Users\\natan\\natanaelguedes-UdemyAppiumAndRobotFramework\\results\\browser\\traces\\5875d210-bcb2-47f3-85ed-f32a915be90a"}</msg>
+<status status="PASS" starttime="20240103 12:51:46.952" endtime="20240103 12:51:47.361"/>
+</kw>
+<kw name="New Page" library="Browser">
+<arg>https://walkdog.vercel.app/signup</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Open a new Page.</doc>
+<msg timestamp="20240103 12:51:48.635" level="INFO">Successfully initialized new page object and opened url: https://walkdog.vercel.app/signup</msg>
+<msg timestamp="20240103 12:51:48.635" level="INFO">No context was open. New context was automatically opened when this page is created.</msg>
+<status status="PASS" starttime="20240103 12:51:47.361" endtime="20240103 12:51:48.635"/>
+</kw>
+<kw name="Wait For Elements State" library="Browser">
+<arg>form h1</arg>
+<arg>visible</arg>
+<arg>600</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<msg timestamp="20240103 12:51:48.661" level="INFO">Waited for Element with selector form h1 at state visible</msg>
+<status status="PASS" starttime="20240103 12:51:48.636" endtime="20240103 12:51:48.661"/>
+</kw>
+<status status="PASS" starttime="20240103 12:51:46.952" endtime="20240103 12:51:48.661"/>
+</kw>
+<kw name="Get Text" library="Browser">
+<arg>form h1</arg>
+<arg>equal</arg>
+<arg>Faça seu cadastro</arg>
+<arg>5000</arg>
+<tag>Assertion</tag>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns text attribute of the element found by ``selector``.</doc>
+<msg timestamp="20240103 12:51:48.694" level="INFO">Text: 'Faça seu cadastro'</msg>
+<status status="PASS" starttime="20240103 12:51:48.661" endtime="20240103 12:51:48.694"/>
+</kw>
+<status status="PASS" starttime="20240103 12:51:46.921" endtime="20240103 12:51:48.694"/>
+</test>
+<doc>Suite de testes do home page</doc>
+<status status="PASS" starttime="20240103 12:51:45.881" endtime="20240103 12:51:48.764"/>
+</suite>
+<status status="PASS" starttime="20240103 12:51:45.877" endtime="20240103 12:51:48.783"/>
+</suite>
+<status status="PASS" starttime="20240103 12:51:45.873" endtime="20240103 12:51:48.783"/>
+</suite>
+<status status="PASS" starttime="20240103 12:51:45.834" endtime="20240103 12:51:48.783"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="natanaelguedes-UdemyAppiumAndRobotFramework">natanaelguedes-UdemyAppiumAndRobotFramework</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="XQAEXPERIENCE">natanaelguedes-UdemyAppiumAndRobotFramework.XQAEXPERIENCE</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1-s1" name="Tests">natanaelguedes-UdemyAppiumAndRobotFramework.XQAEXPERIENCE.Tests</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1-s1-s1" name="homeEncapsulamento">natanaelguedes-UdemyAppiumAndRobotFramework.XQAEXPERIENCE.Tests.homeEncapsulamento</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
