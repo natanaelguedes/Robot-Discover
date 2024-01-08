@@ -70,4 +70,4 @@ result
 
 
 #C:\Users\saonneto\UdemyAppiumAndRobotFramework-main\UdemyAppiumAndRobotFramework-main\XQAEXPERIENCE> 
-# para roda basta digitar o comando 
+# para roda basta digitar o comando  

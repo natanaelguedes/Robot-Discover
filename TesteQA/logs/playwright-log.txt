@@ -1,0 +1,138 @@
+{"level":30,"time":"2024-01-08T01:21:49.269Z","pid":21032,"hostname":"NATANAEL","msg":"Listening on 54393"}
+{"level":30,"time":"2024-01-08T01:21:49.753Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:21:49.754Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:21:49.756Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:21:49.757Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:21:49.761Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-01-08T01:21:50.499Z","pid":21032,"hostname":"NATANAEL","msg":"Adding browser to stack: chromium, version: 120.0.6099.28"}
+{"level":30,"time":"2024-01-08T01:21:50.500Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-01-08T01:21:50.499Z","pid":21032,"hostname":"NATANAEL","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-01-08T01:21:50.505Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-01-08T01:21:50.506Z","pid":21032,"hostname":"NATANAEL","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-01-08T01:21:50.521Z","pid":21032,"hostname":"NATANAEL","msg":"Changed active context"}
+{"level":30,"time":"2024-01-08T01:21:50.728Z","pid":21032,"hostname":"NATANAEL","msg":"Video path: undefined"}
+{"level":30,"time":"2024-01-08T01:21:50.728Z","pid":21032,"hostname":"NATANAEL","msg":"Changed active page"}
+{"level":30,"time":"2024-01-08T01:21:51.834Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method newPage"}
+{"level":30,"time":"2024-01-08T01:21:51.837Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-08T01:21:51.837Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-01-08T01:21:51.872Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-08T01:21:51.875Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-08T01:21:51.875Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-01-08T01:21:51.904Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-01-08T01:21:51.904Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-08T01:21:51.907Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:51.907Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-01-08T01:21:51.934Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:51.938Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:51.938Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-01-08T01:21:51.959Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:51.962Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:51.962Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-01-08T01:21:51.983Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:51.985Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:51.985Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.003Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:52.006Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-08T01:21:52.006Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[type=button][value$=CEP] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.068Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method click"}
+{"level":30,"time":"2024-01-08T01:21:52.071Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.071Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.082Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.082Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.095Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.096Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.105Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.105Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.118Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.118Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.126Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.126Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.138Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.138Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.148Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.148Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.160Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.160Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.170Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.170Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.183Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.183Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.193Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.193Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.205Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.205Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.215Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.215Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.228Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.228Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.236Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.236Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.248Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.248Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.258Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.258Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.270Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.270Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.280Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.280Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.292Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.292Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.301Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.301Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.313Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.313Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.322Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-08T01:21:52.322Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.334Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.334Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.348Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua Elias Cavalcanti de Albuquerque"}
+{"level":30,"time":"2024-01-08T01:21:52.348Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.351Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.351Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.358Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Cristo Redentor"}
+{"level":30,"time":"2024-01-08T01:21:52.358Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.360Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.360Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.370Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing João Pessoa/PB"}
+{"level":30,"time":"2024-01-08T01:21:52.370Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-08T01:21:52.372Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:52.373Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.387Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:52.390Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:52.390Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.405Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-08T01:21:52.408Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-01-08T01:21:52.428Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-08T01:21:52.428Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-01-08T01:21:52.484Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method click"}
+{"level":30,"time":"2024-01-08T01:21:52.488Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-08T01:21:52.488Z","pid":21032,"hostname":"NATANAEL","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2024-01-08T01:21:53.323Z","pid":21032,"hostname":"NATANAEL","msg":"Retrieved text for element css=.swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-01-08T01:21:53.323Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-08T01:22:53.412Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.414Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.416Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.418Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.421Z","pid":21032,"hostname":"NATANAEL","msg":"Changed active context"}
+{"level":30,"time":"2024-01-08T01:22:53.421Z","pid":21032,"hostname":"NATANAEL","msg":"Changing current active page: page=bf5162f2-c79d-45a6-a014-167aa1691f74"}
+{"level":30,"time":"2024-01-08T01:22:53.421Z","pid":21032,"hostname":"NATANAEL","msg":"Changed active page"}
+{"level":30,"time":"2024-01-08T01:22:53.428Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.430Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.432Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-08T01:22:53.433Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-08T01:22:53.436Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-08T01:22:53.437Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-08T01:22:53.439Z","pid":21032,"hostname":"NATANAEL","msg":"Changing current active page: page=bf5162f2-c79d-45a6-a014-167aa1691f74"}
+{"level":30,"time":"2024-01-08T01:22:53.439Z","pid":21032,"hostname":"NATANAEL","msg":"Changed active page"}
+{"level":30,"time":"2024-01-08T01:22:53.444Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.446Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.448Z","pid":21032,"hostname":"NATANAEL","msg":"Changed active context"}
+{"level":30,"time":"2024-01-08T01:22:53.448Z","pid":21032,"hostname":"NATANAEL","msg":"Changing current active page: page=bf5162f2-c79d-45a6-a014-167aa1691f74"}
+{"level":30,"time":"2024-01-08T01:22:53.448Z","pid":21032,"hostname":"NATANAEL","msg":"Changed active page"}
+{"level":30,"time":"2024-01-08T01:22:53.452Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-01-08T01:22:53.468Z","pid":21032,"hostname":"NATANAEL","msg":"Removed page=2c6f34e1-3c50-4bc4-a22e-a2fb3168a8af from context=02a99549-c848-4e93-a1bb-4ab023ba02ab page stack"}
+{"level":30,"time":"2024-01-08T01:22:53.479Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-01-08T01:22:53.484Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.484Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-08T01:22:53.553Z","pid":21032,"hostname":"NATANAEL","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-01-08T01:22:53.701Z","pid":21032,"hostname":"NATANAEL","msg":"End of node method closeAllBrowsers"}
