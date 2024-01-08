@@ -23,21 +23,12 @@ Deve cadastrar um novo dog walker
     ...  addressDetails=apto105
     ...  cnh=i.jpg  
 
-    GO TO PAGE
-    FILL SIGNUP FORM   ${dog_walker}
-    Submitform
-    result
-
-*** Keywords ***
-
-GO TO PAGE
      New Browser                                    browser=chromium        headless=False
      New Page                                       https://walkdog.vercel.app/signup
      Wait For Elements State                        form h1       visible          5000
      
      Get Text                               form h1    equal         Faça seu cadastro
-FILL SIGNUP FORM  
-     [Arguments]    ${dog_walker}
+
 
      Fill Text                                      css=input[name=name]                             ${dog_walker}[name]
      Fill Text                                      css=input[name=email]                            ${dog_walker}[email]
@@ -57,10 +48,10 @@ FILL SIGNUP FORM
 
     Upload File By Selector                        css=input[type=file]                             ${EXECDIR}/${dog_walker}[cnh]                        
 
-Submitform  
+  
     Click                                          css=.button-register   # Input Text  
     # # submit form                                   xpath=//*[@id="page-walker"]/form/button         Cadastrar     
-result
+
     Get Text                                       css=.swal2-html-container        equal       Recebemos o seu cadastro e em breve retornaremos o contato.
 
     Screenshot.Take Screenshot        ${EXECDIR}/logs                        

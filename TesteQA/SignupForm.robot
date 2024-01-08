@@ -20,7 +20,7 @@ Deve cadastrar um novo dog walker
     ${addressStreet}    Set Variable                        Rua Elias Cavalcanti de Albuquerque
     ${addressDistrict}  Set Variable                        Cristo Redentor               
     ${addressCityUf}    Set Variable                        João Pessoa/PB
-
+    ${url}              Set Variable                        i.jpg
 
      New Browser                                    browser=chromium        headless=False
      New Page                                       https://walkdog.vercel.app/signup
@@ -44,7 +44,7 @@ Deve cadastrar um novo dog walker
 # #desabilita o checkbox elements.styles com o nome display: none;
 #EXECDIR identifica qualquer arquivo que esteja na raiz do projeto que nesse caso a raiz é XQAEXPERIENCE 
 
-    Upload File By Selector                        css=input[type=file]                             ${EXECDIR}/i.jpg                        
+    Upload File By Selector                        css=input[type=file]                             ${EXECDIR}/${url}                        
 
   
     Click                                          css=.button-register   # Input Text  
